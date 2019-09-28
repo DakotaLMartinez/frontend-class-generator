@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-class-generator/static/css/main.34de6062.chunk.css",
+    "main.js": "/frontend-class-generator/static/js/main.c14f6913.chunk.js",
+    "main.js.map": "/frontend-class-generator/static/js/main.c14f6913.chunk.js.map",
+    "runtime-main.js": "/frontend-class-generator/static/js/runtime-main.dceb7b9a.js",
+    "runtime-main.js.map": "/frontend-class-generator/static/js/runtime-main.dceb7b9a.js.map",
+    "static/js/2.9166519c.chunk.js": "/frontend-class-generator/static/js/2.9166519c.chunk.js",
+    "static/js/2.9166519c.chunk.js.map": "/frontend-class-generator/static/js/2.9166519c.chunk.js.map",
+    "index.html": "/frontend-class-generator/index.html",
+    "precache-manifest.ec1774f5690c15fc0a963185ecb378ca.js": "/frontend-class-generator/precache-manifest.ec1774f5690c15fc0a963185ecb378ca.js",
+    "service-worker.js": "/frontend-class-generator/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/frontend-class-generator/static/css/main.34de6062.chunk.css.map"
+  }
+}
